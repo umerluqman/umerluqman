@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Umer Luqman Hakeem
+- 👀 I’m interested in Generative AI, Data Science, Web Development
+- 🌱 I’m currently learning TypeScript, NextJs
+- 💞️ I’m looking to collaborate on PIAIC, Panaverse community 
+- 📫 How to reach me : Discord ID : umerluqman | Email: umerluqman00@gmail.com
